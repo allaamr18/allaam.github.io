@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head></head>
+  
+  <style>
+  #header{
 
-You can use the [editor on GitHub](https://github.com/allaamr18/allaam.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#logo{
+  text-align:center;
+  font-size:60px;
+  font-family:monospace;
+  text-decoration:line-through;
+  ;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+a:link{
+  color:black;
+  font-size:20px;
+  text-decoration:none;
+  display:flex;
+}
+#instagram:hover{
+  background-color:black;
+  color:white;
+}
+ul{
+  display:flex;
+}
+#about{
+  color:black;
+  margin-left:150px;
+  
+}
 
-```markdown
-Syntax highlighted code block
+#about:hover{
+background-color:black;
+  color:white;
+  
+}
 
-# Header 1
-## Header 2
-### Header 3
+#linkedin{
+  margin-left:560px;
+}
+#linkedin:hover{
+  background-color:black;
+  color:white;
+}
+#facebook{
+  margin-left:150px;
+}
+  </style>
+  
+  <body>
+  <header id="header">
+  <nav>
+    <h1 id="logo">AR!8</h1>
+    <ul>
+      <ol> 
+        <a id="instagram" href="https://www.instagram.com/allaamr18/"> Instagram </a>
+      </ol>
+      <ol>
+        <a id="about" href="https://allaamr18.github.io/"> About  </a>
+      </ol>
+       <ol> 
+         <a id="linkedin" href="https://www.linkedin.com/in/allaam-raheem-292928224/"> LinkedIn </a>
+      </ol>
+         <ol>
+           <a id="facebook" href="https://www.facebook.com/allaam.raheem/"> Facebook </a>
+         </ol>
+      
+    </ul>
+  
+</nav>
+</header>
+  </body>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allaamr18/allaam.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
